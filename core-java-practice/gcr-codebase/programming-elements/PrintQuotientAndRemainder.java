@@ -7,5 +7,6 @@ public class PrintQuotientAndRemainder {
 		int q=num1/num2;
 		int r=num1%num2;
 		System.out.println("The Quotient is: "+q+" and Reminder is: "+r+" of two number "+num1+" and "+num2);
+		sc.close();
 	}
 }

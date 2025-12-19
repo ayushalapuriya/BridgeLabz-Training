@@ -7,5 +7,6 @@ public class CalculateTotalPrice {
 		int totalPrice=unitPrice*quantity;
 		System.out.println("The total purchase price is INR: "+totalPrice+" if the quantity "
 				+quantity+" and unit price is INR: "+unitPrice);
+		sc.close();
 	}
 }

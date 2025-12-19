@@ -1,4 +1,3 @@
-
 public class AverageOfThreeNumbers {
 	public static void main(String[]args) {
 		int num1=20;

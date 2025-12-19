@@ -1,4 +1,3 @@
-
 public class DistributePensEqually {
 	public static void main(String[]args) {
 		int pens=14;

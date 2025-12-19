@@ -6,5 +6,6 @@ public class DistanceInYardAndMiles {
 		double distInYard=distInFeet/3;
 		double distInMiles=distInYard/1760;
 		System.out.println("Distance in feet is: "+distInFeet+" while in yard is: "+distInYard+" and miles is: "+distInMiles);
+		sc.close();
 	}
 }

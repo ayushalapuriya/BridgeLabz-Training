@@ -1,4 +1,3 @@
-
 public class CelciusToFahrenheit {
 	public static void main(String[]args) {
 		int celcius=25;

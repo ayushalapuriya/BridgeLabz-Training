@@ -1,4 +1,3 @@
-
 public class ProfitAndLoss {
 	public static void main(String[] args) {
 		int costPrice=129;

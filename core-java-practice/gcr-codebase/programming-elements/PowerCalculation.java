@@ -1,4 +1,3 @@
-
 public class PowerCalculation {
 	 public static void main(String[]args) {
 		 int base=2;

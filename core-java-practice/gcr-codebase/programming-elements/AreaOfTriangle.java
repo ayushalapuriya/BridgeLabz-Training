@@ -8,5 +8,6 @@ public class AreaOfTriangle {
 		double areaInInch=area/(2.54*2.54);
 		double areaInFeet=areaInInch/144;
 		System.out.println("Your Area in cm is: "+area+" while in feet is: "+areaInFeet+" and inches is: "+areaInInch);
-	}
+		sc.close();
+	 }
 }

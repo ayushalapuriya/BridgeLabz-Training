@@ -1,4 +1,3 @@
-
 public class DicountedPriceWithoutUserInput {
 	public static void main(String[]args) {
 		int fee=125000;

@@ -10,5 +10,6 @@ public class DoubleOperation {
 		double opr3=a+b/c;
 		double opr4=a%b+c;
 		System.out.println("The results of Int Operations are "+opr1+" , "+opr2+" , "+opr3+" and "+opr4);
+		sc.close();
 	}
 }

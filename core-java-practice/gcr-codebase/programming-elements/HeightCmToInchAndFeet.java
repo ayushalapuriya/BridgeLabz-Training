@@ -6,5 +6,6 @@ public class HeightCmToInchAndFeet {
 		double inch=height/2.54;
 		double feet=inch/12;
 		System.out.println("Your Height in cm is: "+height+" while in feet is: "+feet+" and inches is: "+inch);
-	}
+		sc.close();
+	 }
 }

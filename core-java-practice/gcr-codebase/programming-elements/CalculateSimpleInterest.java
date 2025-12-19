@@ -1,4 +1,3 @@
-
 public class CalculateSimpleInterest {
 	 public static void main(String[]args) {
 		 int principal=1000;

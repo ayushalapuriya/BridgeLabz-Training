@@ -1,4 +1,3 @@
-
 public class AverageMarksInPCM {
 	public static void main(String[]args) {
 		int maths=94;

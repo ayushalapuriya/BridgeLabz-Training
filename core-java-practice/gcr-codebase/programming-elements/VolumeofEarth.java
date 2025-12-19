@@ -1,4 +1,3 @@
-
 public class VolumeofEarth {
 	public static void main(String[] args) {
 		int radiusInKm=6378;

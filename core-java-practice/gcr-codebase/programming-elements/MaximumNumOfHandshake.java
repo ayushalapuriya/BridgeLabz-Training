@@ -5,5 +5,6 @@ public class MaximumNumOfHandshake {
 		int n=sc.nextInt();
 		int maxHandshake=(n*(n-1))/2;
 		System.out.println(maxHandshake);
+		sc.close();
 	}
 }
