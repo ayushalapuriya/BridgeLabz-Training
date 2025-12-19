@@ -2,13 +2,13 @@ import java.util.*;
 public class BasicCalculator {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		double a=sc.nextDouble();
-		double b=sc.nextDouble();
-		double add=a+b;
-		double sub=a-b;
-		double mul=a*b;
-		double div=a/b;
+		double num1=sc.nextDouble();
+		double num2=sc.nextDouble();
+		double add=num1+num2;
+		double sub=num1-num2;
+		double mul=num1*num2;
+		double div=num1/num2;
 		System.out.println("The addition, subtraction, multiplication and division value of 2 numbers "
-				+a+" and "+b+" is "+add+" , "+sub+" , "+mul+" and "+div);
+				+num1+" and "+num2+" is "+add+" , "+sub+" , "+mul+" and "+div);
 	}
 }
