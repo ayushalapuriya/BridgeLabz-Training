@@ -7,7 +7,7 @@ public class MultipleUnder100UsingWhile {
 			System.out.print("Multiples of "+num+" are: ");
 			int i=99;
 			while(i>0) {
-				if(num%i==0) System.out.print(i+" ");
+				if(i%num==0) System.out.print(i+" ");
 				i--;
 			}
 		}
