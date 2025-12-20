@@ -13,7 +13,7 @@ The training focuses on building strong Core Java fundamentals, improving logica
  ┃ ┣ 📂 gcr-codebase
  ┃ ┃ ┣ 📂 programming-elements
  ┃ ┃ ┣ 📂 control-flow
- ┃ ┃ ┗ 📂 arrays         (to be added)
+ ┃ ┃ ┗ 📂 arrays         
  ┃ ┣ 📂 leet-code-codebase
  ┃ ┣ 📂 scenario-based
  ┃ ┣ 📂 OOP              (to be added)
@@ -139,3 +139,4 @@ git push
 ⭐ **This repository will be continuously updated throughout the BridgeLabz training journey.**
 
 **Last Updated:** December 20, 2025
+
