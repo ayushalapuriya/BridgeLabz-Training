@@ -1,4 +1,5 @@
 import java.util.*;
+
 class Frequency {
 	public static void main(String[] args) {
 
@@ -13,23 +14,23 @@ class Frequency {
 			count++;
 			temp = temp / 10;
 		}
-		
+
 		// Count digits
 		int[] digits = new int[count];
 		int[] freq = new int[10];
 		temp = num;
-		
+
 		// Store digits in array
 		for (int i = 0; i < count; i++) {
 			digits[i] = temp % 10;
 			temp = temp / 10;
 		}
-		
+
 		// Find frequency
 		for (int i = 0; i < count; i++) {
 			freq[digits[i]]++;
 		}
-		
+
 		// Display frequency
 		System.out.println("\nDigit Frequency:");
 		for (int i = 0; i < 10; i++) {

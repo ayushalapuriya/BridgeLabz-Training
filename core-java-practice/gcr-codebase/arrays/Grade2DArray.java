@@ -8,6 +8,7 @@ class Grade2DArray {
 		int[][] marks = new int[n][3];
 		double[] percentage = new double[n];
 		char[] grade = new char[n];
+		
 		// Input marks
 		for (int i = 0; i < n; i++) {
 			System.out.println("\nStudent " + (i + 1));
@@ -19,6 +20,7 @@ class Grade2DArray {
 				}
 			}
 		}
+
 		// Calculate percentage and grade
 		for (int i = 0; i < n; i++) {
 			int total = marks[i][0] + marks[i][1] + marks[i][2];
@@ -37,6 +39,7 @@ class Grade2DArray {
 			else
 				grade[i] = 'R';
 		}
+		
 		// Display result
 		System.out.println("\n--- Student Result ---");
 		for (int i = 0; i < n; i++) {

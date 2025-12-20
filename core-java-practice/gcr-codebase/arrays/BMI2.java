@@ -1,4 +1,5 @@
 import java.util.*;
+
 class BMI2 {
 	public static void main(String[] args) {
 
