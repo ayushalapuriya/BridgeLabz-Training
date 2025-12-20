@@ -1,0 +1,141 @@
+# 🚀 BridgeLabz-Training
+**BridgeLabz – Capgemini Training Repository**
+
+This repository documents my daily learning and hands-on practice during the BridgeLabz – Capgemini training program.  
+The training focuses on building strong Core Java fundamentals, improving logical thinking, and developing problem-solving skills aligned with industry standards.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🏗️ Repository Structure (High-Level)
+```
+📦 BridgeLabz-Training
+ ┣ 📂 core-java-practice
+ ┃ ┣ 📂 gcr-codebase
+ ┃ ┃ ┣ 📂 programming-elements
+ ┃ ┃ ┣ 📂 control-flow
+ ┃ ┃ ┗ 📂 arrays         (to be added)
+ ┃ ┣ 📂 leet-code-codebase
+ ┃ ┣ 📂 scenario-based
+ ┃ ┣ 📂 OOP              (to be added)
+ ┃ ┣ 📂 collections     (to be added)
+ ┃ ┗ 📂 exceptions      (to be added)
+ ┣ 📂 bin
+ ┗ 📄 README.md
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🌿 Active Branch
+🔹 **core-java-practice**  
+Current learning and implementation branch
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📅 DAILY PROGRESS LOG
+
+### 🟦 WEEK 1 (FOUNDATION AND BASICS)
+
+#### 🗓️ Day 1 – 16 December 2025
+**Focus:** Git, GitHub & Logic Building
+
+🔧 Set up GitHub repository and folder structure
+
+🔄 Practiced Git workflow:
+```bash
+git status
+git add
+git commit
+git push
+```
+
+🧠 Solved 5 LeetCode problems in Java
+
+📌 Improved logical thinking and problem-solving skills
+
+📂 **Folder reference:**  
+👉 [leet-code-codebase](core-java-practice/leet-code-codebase/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 2 – 17 December 2025
+**Focus:** Core Java Fundamentals
+
+💻 Practiced introductory Core Java programs
+
+📚 **Covered:**
+- Java syntax
+- Input / Output handling
+- Arithmetic operations
+- Basic conditional logic
+
+📂 **Folder reference:**  
+👉 [programming-elements](core-java-practice/gcr-codebase/programming-elements/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 3 – 18 December 2025
+**Focus:** Programming Elements
+
+🧩 Implemented Core Java programs using:
+- Variables and data types
+- Operators
+- Basic input/output
+- Foundational logic building
+
+📂 **Folder reference:**  
+👉 [programming-elements](core-java-practice/gcr-codebase/programming-elements/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 4 – 19 December 2025
+**Focus:** Control Flow Statements
+
+🔁 Implemented programs using:
+- if, if-else, else-if
+- switch-case
+- Looping constructs (for, while, do-while)
+
+📂 **Folder reference:**  
+👉 [control-flow](core-java-practice/gcr-codebase/control-flow/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 5 – 20 December 2025
+**Focus:** Documentation & Repository Organization
+
+📝 Created comprehensive README documentation
+
+🗂️ Organized repository structure for better navigation
+
+📂 **Folder reference:**  
+👉 Root directory
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🧭 How to Navigate
+🔀 Use the branch selector on GitHub to switch to `core-java-practice`  
+📁 Each topic folder contains Java programs focused on concept clarity  
+🔄 Repository is updated day-wise as training progresses
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🚀 Upcoming Topics
+🧱 Object-Oriented Programming (OOP)  
+📦 Java Collections Framework  
+⚠️ Exception Handling  
+📂 File Operations  
+🧠 Advanced Java problem solving
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🛠️ Tools & Technologies
+- **Language:** Java (JDK 8+)
+- **IDE:** VS Code / Eclipse
+- **Version Control:** Git & GitHub
+- **Practice:** LeetCode, HackerRank
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ **This repository will be continuously updated throughout the BridgeLabz training journey.**
+
+**Last Updated:** December 20, 2025
