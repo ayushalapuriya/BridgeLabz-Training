@@ -61,6 +61,7 @@ public class GradeBased {
 		int[][] scores=generateScores(n);
 		double[][] stats=calculateStats(scores);
 		String[] grades=calculateGrade(stats);
+		
 		displayScorecard(scores,stats,grades);
 		
 		sc.close();
