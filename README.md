@@ -1,19 +1,21 @@
 # 🚀 BridgeLabz-Training
-**BridgeLabz – Capgemini Training Repository**
+**BridgeLabz – Training Repository**
 
-This repository documents my daily learning and hands-on practice during the BridgeLabz – Capgemini training program.  
-The training focuses on building strong Core Java fundamentals, improving logical thinking, and developing problem-solving skills aligned with industry standards.
+This repository captures my learning journey during the BridgeLabz training program.  
+My focus is on mastering Core Java concepts, enhancing problem-solving abilities, and writing clean, efficient code following best practices.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🏗️ Repository Structure (High-Level)
+## 🏗️ Repository Structure
 ```
 📦 BridgeLabz-Training
  ┣ 📂 core-java-practice
  ┃ ┣ 📂 gcr-codebase
  ┃ ┃ ┣ 📂 programming-elements
  ┃ ┃ ┣ 📂 control-flow
- ┃ ┃ ┗ 📂 arrays         
+ ┃ ┃ ┣ 📂 arrays
+ ┃ ┃ ┣ 📂 strings
+ ┃ ┃ ┗ 📂 java-methods
  ┃ ┣ 📂 leet-code-codebase
  ┃ ┣ 📂 scenario-based
  ┃ ┣ 📂 OOP              (to be added)
@@ -91,9 +93,9 @@ git push
 **Focus:** Control Flow Statements
 
 🔁 Implemented programs using:
-- if, if-else, else-if
-- switch-case
-- Looping constructs (for, while, do-while)
+- Conditional statements (if, else-if, else)
+- Switch-case structure
+- Loop iterations (for, while, do-while)
 
 📂 **Folder reference:**  
 👉 [control-flow](core-java-practice/gcr-codebase/control-flow/)
@@ -101,14 +103,73 @@ git push
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #### 🗓️ Day 5 – 20 December 2025
-**Focus:** Documentation & Repository Organization
+**Focus:** Arrays in Java
 
-📝 Created comprehensive README documentation
+📦 Created array-based programs for data handling
 
-🗂️ Organized repository structure for better navigation
+🔄 **Key learnings:**
+- Array declaration and iteration
+- Resizing arrays dynamically
+- Managing array indices
 
-📂 **Folder reference:**  
-👉 Root directory
+🧠 Built stronger logic for array manipulation
+
+📂 **Code location:**  
+👉 [arrays](core-java-practice/gcr-codebase/arrays/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 🟦 WEEK 2 (STRINGS & LOGIC BUILDING)
+
+#### 🗓️ Day 1 – 22 December 2025
+**Focus:** Strings & Logic Building
+
+🔤 Worked on multiple string manipulation problems
+
+🔁 Practiced traversing characters, comparisons, and recursion
+
+🧩 Used frequency-based approaches for validation
+
+⚠️ Learned to handle runtime exceptions
+
+🧠 Improved text processing logic
+
+📂 **Code location:**  
+👉 [strings](core-java-practice/gcr-codebase/strings/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 2 – 23 December 2025
+**Focus:** Strings & Scenario Problems
+
+🔤 Solved problems like palindrome, anagram, string traversal
+
+🧠 Applied frequency counting and recursive logic
+
+⚠️ Handled string-related exceptions
+
+🗳️ Completed scenario programs (Election Booth, Metro Fare)
+
+🎤 Presented solutions during student review session
+
+📂 **Code location:**  
+👉 [strings](core-java-practice/gcr-codebase/strings/) & [scenario-based](core-java-practice/scenario-based/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 3 – 24 December 2025
+**Focus:** Methods & Logic Building
+
+🧩 Practiced writing methods with parameters and return types
+
+🔁 Understood method invocation and code reusability
+
+🧠 Enhanced logical thinking with modular programming
+
+✍️ Developed solutions using multiple methods
+
+📂 **Code location:**  
+👉 [java-methods](core-java-practice/gcr-codebase/java-methods/)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -123,8 +184,7 @@ git push
 🧱 Object-Oriented Programming (OOP)  
 📦 Java Collections Framework  
 ⚠️ Exception Handling  
-📂 File Operations  
-🧠 Advanced Java problem solving
+🧠 Advanced problem-solving techniques
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -138,5 +198,4 @@ git push
 
 ⭐ **This repository will be continuously updated throughout the BridgeLabz training journey.**
 
-**Last Updated:** December 20, 2025
-
+**Last Updated:** December 24, 2025
