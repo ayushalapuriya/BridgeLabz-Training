@@ -173,6 +173,40 @@ git push
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+#### 🗓️ Day 4 – 25 December 2025
+**Focus:** Strings and Functions
+
+🔤 Practiced comprehensive string handling concepts
+
+🧩 Solved advanced string problems
+
+🔁 Enhanced string traversal techniques
+
+🧠 Improved proficiency with methods involving parameters & return values
+
+📂 **Code location:**  
+👉 [strings](core-java-practice/gcr-codebase/strings/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 5 – 26 December 2025
+**Focus:** Control Flow, Loops & Built-in Methods (Scenario-Based)
+
+🚌 Developed scenario-based applications:
+- **Bus Route Distance Tracker**
+- **Festival Lucky Draw**
+
+🔁 Practiced looping for multiple users/entries with proper exit conditions
+
+🧩 Worked on built-in method–based questions for cleaner logic and direct method usage
+
+🧠 Strengthened real-world problem modeling using control flow and functions
+
+📂 **Code location:**  
+👉 [scenario-based](core-java-practice/scenario-based/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 🔀 Use the branch selector on GitHub to switch to `core-java-practice`  
 📁 Each topic folder contains Java programs focused on concept clarity  
@@ -184,7 +218,7 @@ git push
 🧱 Object-Oriented Programming (OOP)  
 📦 Java Collections Framework  
 ⚠️ Exception Handling  
-🧠 Advanced problem-solving techniques
+🧠 Advanced Java problem solving
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -198,4 +232,4 @@ git push
 
 ⭐ **This repository will be continuously updated throughout the BridgeLabz training journey.**
 
-**Last Updated:** December 24, 2025
+**Last Updated:** December 26, 2025
