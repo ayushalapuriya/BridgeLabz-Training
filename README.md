@@ -18,9 +18,11 @@ My focus is on mastering Core Java concepts, enhancing problem-solving abilities
  ┃ ┃ ┗ 📂 java-methods
  ┃ ┣ 📂 leet-code-codebase
  ┃ ┣ 📂 scenario-based
- ┃ ┣ 📂 OOP              (to be added)
- ┃ ┣ 📂 collections     (to be added)
- ┃ ┗ 📂 exceptions      (to be added)
+ ┃ 📂 oops-practice
+ ┃ ┣ 📂 gcr-codebase
+ ┃ ┃ ┣ 📂 classesandobjects
+ ┃ 📂 collections     (to be added)
+ ┃ 📂 exceptions      (to be added)
  ┣ 📂 bin
  ┗ 📄 README.md
 ```
@@ -28,7 +30,7 @@ My focus is on mastering Core Java concepts, enhancing problem-solving abilities
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🌿 Active Branch
-🔹 **core-java-practice**  
+🔹 **oops-practice**  
 Current learning and implementation branch
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -207,15 +209,54 @@ git push
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+### 🟦 WEEK 3 (OBJECT-ORIENTED PROGRAMMING)
+
+#### 🗓️ Day 1 – 29 December 2025
+**Focus:** EXTRAS - Java String Handling and Scenario-Based Problems
+
+🔤 Practiced additional Java string handling techniques
+
+🧩 Solved scenario-based problems with real-world use cases
+
+💡 Implemented problems with practical use cases
+
+🔁 Applied problem-solving approaches to case-specific scenarios
+
+🧠 Strengthened logic building through use-case driven problems
+
+📂 **Code location:**  
+👉 [strings](core-java-practice/gcr-codebase/strings/) & [scenario-based](core-java-practice/scenario-based/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 2 – 30 December 2025
+**Focus:** Introduction to Object-Oriented Programming
+
+🧱 Learned fundamental OOP concepts
+
+🏗️ Understood objects and classes structure
+
+🎲 Solved scenario-based real-world problems:
+- **Line Comparison Problem**
+- **Snake & Ladder Problem**
+
+💻 Became familiar with terminal operations and Linux commands
+
+🧠 Strengthened understanding of object creation and instantiation
+
+📂 **Code location:**  
+👉 [oops-practice](oops-practice/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
-🔀 Use the branch selector on GitHub to switch to `core-java-practice`  
+🔀 Use the branch selector on GitHub to switch to `oops-practice`  
 📁 Each topic folder contains Java programs focused on concept clarity  
 🔄 Repository is updated day-wise as training progresses
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🚀 Upcoming Topics
-🧱 Object-Oriented Programming (OOP)  
 📦 Java Collections Framework  
 ⚠️ Exception Handling  
 🧠 Advanced Java problem solving
@@ -232,4 +273,4 @@ git push
 
 ⭐ **This repository will be continuously updated throughout the BridgeLabz training journey.**
 
-**Last Updated:** December 26, 2025
+**Last Updated:** December 30, 2025
