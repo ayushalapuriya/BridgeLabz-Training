@@ -231,7 +231,7 @@ git push
 🧠 Strengthened logic building through use-case driven problems
 
 📂 **Code location:**  
-👉 [strings](core-java-practice/gcr-codebase/strings/) & [scenario-based](core-java-practice/scenario-based/)
+👉 [strings](core-java-practice/gcr-codebase/extra/) & [scenario-based](core-java-practice/scenario-based/)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
