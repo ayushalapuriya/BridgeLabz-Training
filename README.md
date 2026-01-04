@@ -11,16 +11,22 @@ My focus is on mastering Core Java concepts, enhancing problem-solving abilities
 📦 BridgeLabz-Training
  ┣ 📂 core-java-practice
  ┃ ┣ 📂 gcr-codebase
- ┃ ┃ ┣ 📂 programming-elements
- ┃ ┃ ┣ 📂 control-flow
  ┃ ┃ ┣ 📂 arrays
+ ┃ ┃ ┣ 📂 control-flow
+ ┃ ┃ ┣ 📂 extra
+ ┃ ┃ ┣ 📂 java-methods
  ┃ ┃ ┣ 📂 strings
- ┃ ┃ ┗ 📂 java-methods
+ ┃ ┃ ┗ 📂 programming-elements
  ┃ ┣ 📂 leet-code-codebase
  ┃ ┣ 📂 scenario-based
  ┃ 📂 oops-practice
  ┃ ┣ 📂 gcr-codebase
  ┃ ┃ ┣ 📂 classesandobjects
+ ┃ ┃ ┣ 📂 inheritance
+ ┃ ┃ ┣ 📂 oops_design_principles
+ ┃ ┃ ┣ 📂 this_static_final_instanceof_keywords
+ ┃ ┣ 📂 leet-code-codebase
+ ┃ ┣ 📂 scenario-based
  ┃ 📂 collections     (to be added)
  ┃ 📂 exceptions      (to be added)
  ┣ 📂 bin
@@ -236,16 +242,107 @@ git push
 
 🏗️ Understood objects and classes structure
 
+💡 Practiced creating objects and classes
+
 🎲 Solved scenario-based real-world problems:
 - **Line Comparison Problem**
 - **Snake & Ladder Problem**
-
-💻 Became familiar with terminal operations and Linux commands
 
 🧠 Strengthened understanding of object creation and instantiation
 
 📂 **Code location:**  
 👉 [oops-practice](oops-practice/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 3 – 31 December 2025
+**Focus:** Constructors, Instance vs. Class Variables, Access Modifiers
+
+🔧 Learned and implemented different types of constructors:
+- Default constructors
+- Parameterized constructors
+- Constructor overloading
+
+🎯 Understood the difference between instance and class variables
+
+🔒 Explored access modifiers (public, private, protected, default)
+
+💻 Applied OOP concepts through practical implementation
+
+🧠 Strengthened understanding of class design and encapsulation
+
+📂 **Code location:**  
+👉 [classesandobjects](oops-practice/gcr-codebase/classesandobjects/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 4 – 1 January 2026
+**Focus:** this, static, final Keywords and instanceof Operator
+
+🔑 Learned and practiced the `this` keyword for object reference
+
+📌 Understood `static` keyword for class-level members
+
+🔒 Explored `final` keyword for constants and immutability
+
+🔍 Implemented `instanceof` operator for type checking
+
+🧩 Solved scenario-based problems:
+- **Sentence Formatter** - Auto-corrected text formatting with proper spacing and capitalization
+- **Paragraph Analyzer** - Word count, longest word detection, and word replacement
+
+💻 Applied keywords and operators in practical implementations
+
+🧠 Strengthened understanding of object-oriented concepts and text processing
+
+📂 **Code location:**  
+👉 [this_static_final_instanceof_keywords](oops-practice/gcr-codebase/this_static_final_instanceof_keywords/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 5 – 2 January 2026
+**Focus:** Inheritance, Arrays & Object Modeling
+
+🔑 Learned inheritance concepts and implementation
+
+📊 Practiced 2D arrays and array operations
+
+🧩 Solved scenario-based problems:
+- **Library Management System** (Book Search & Checkout)
+- **EduQuiz** (Student Quiz Grader)
+- **Temperature Analyzer** (2D array operations)
+- **Student Test Scores Manager**
+
+🎨 Created class diagrams and object models
+
+📝 Worked on Object Oriented Design Principles
+
+🧠 Enhanced understanding of inheritance and array manipulation
+
+📂 **Code location:**  
+👉 [inheritance](oops-practice/gcr-codebase/inheritance/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 6 – 3 January 2026
+**Focus:** Encapsulation, Interface, Abstract Classes, and Polymorphism
+
+🔒 Learned encapsulation and data hiding principles
+
+🔌 Understood interfaces and abstract classes
+
+🔄 Explored polymorphism concepts
+
+🧩 Solved scenario-based problems:
+- **Bank Account Manager** (Deposit, withdraw, overdraft prevention)
+- **Mathematical Operations Utility** (Factorial, prime check, GCD, Fibonacci)
+
+📝 Submitted Inheritance assignment
+
+🧠 Strengthened understanding of OOP design principles
+
+📂 **Code location:**  
+👉 [oops_design_principles](oops-practice/gcr-codebase/oops_design_principles/)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -273,4 +370,4 @@ git push
 
 ⭐ **This repository will be continuously updated throughout the BridgeLabz training journey.**
 
-**Last Updated:** December 30, 2025
+**Last Updated:** January 3, 2026
