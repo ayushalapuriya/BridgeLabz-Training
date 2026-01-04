@@ -301,9 +301,7 @@ git push
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #### 🗓️ Day 5 – 2 January 2026
-**Focus:** Inheritance, Arrays & Object Modeling
-
-🔑 Learned inheritance concepts and implementation
+**Focus:** Object Modeling, Class Diagrams & Design Principles
 
 📊 Practiced 2D arrays and array operations
 
@@ -317,21 +315,17 @@ git push
 
 📝 Worked on Object Oriented Design Principles
 
-🧠 Enhanced understanding of inheritance and array manipulation
+🧠 Enhanced understanding of object modeling and design
 
 📂 **Code location:**  
-👉 [inheritance](oops-practice/gcr-codebase/inheritance/)
+👉 [oops_design_principles](oops-practice/gcr-codebase/oops_design_principles/)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 #### 🗓️ Day 6 – 3 January 2026
-**Focus:** Encapsulation, Interface, Abstract Classes, and Polymorphism
+**Focus:** Inheritance & Scenario-Based Problems
 
-🔒 Learned encapsulation and data hiding principles
-
-🔌 Understood interfaces and abstract classes
-
-🔄 Explored polymorphism concepts
+🔗 Learned inheritance concepts and implementation
 
 🧩 Solved scenario-based problems:
 - **Bank Account Manager** (Deposit, withdraw, overdraft prevention)
@@ -339,10 +333,10 @@ git push
 
 📝 Submitted Inheritance assignment
 
-🧠 Strengthened understanding of OOP design principles
+🧠 Strengthened understanding of inheritance and OOP principles
 
 📂 **Code location:**  
-👉 [oops_design_principles](oops-practice/gcr-codebase/oops_design_principles/)
+👉 [inheritance](oops-practice/gcr-codebase/inheritance/)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
