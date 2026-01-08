@@ -28,6 +28,11 @@ My focus is on mastering Core Java concepts, enhancing problem-solving abilities
  ┃ ┃ ┣ 📂 this_static_final_instanceof_keywords
  ┃ ┣ 📂 leet-code-codebase
  ┃ ┣ 📂 scenario-based
+ ┃ 📂 dsa-practice
+ ┃ ┣ 📂 gcr-codebase
+ ┃ ┃ ┣ 📂 linkedlist
+ ┃ ┣ 📂 leet-code-codebase
+ ┃ ┣ 📂 scenario-based
  ┃ 📂 collections     (to be added)
  ┃ 📂 exceptions      (to be added)
  ┣ 📂 bin
@@ -37,7 +42,7 @@ My focus is on mastering Core Java concepts, enhancing problem-solving abilities
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🌿 Active Branch
-🔹 **oops-practice**  
+🔹 **dsa-practice**  
 Current learning and implementation branch
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
