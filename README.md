@@ -22,6 +22,7 @@ My focus is on mastering Core Java concepts, enhancing problem-solving abilities
  ┃ 📂 oops-practice
  ┃ ┣ 📂 gcr-codebase
  ┃ ┃ ┣ 📂 classesandobjects
+ ┃ ┃ ┣ 📂 encap-polymo-interface-abstract
  ┃ ┃ ┣ 📂 inheritance
  ┃ ┃ ┣ 📂 oops_design_principles
  ┃ ┃ ┣ 📂 this_static_final_instanceof_keywords
@@ -340,6 +341,91 @@ git push
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+### 🟦 WEEK 4 (ADVANCED OOP)
+
+#### 🗓️ Day 1 – 5 January 2026
+**Focus:** Encapsulation, Polymorphism, Interfaces, Abstract Classes & Exception Handling
+
+🔌 Implemented interfaces and designed abstract classes
+
+🔄 Applied polymorphism in practice programs
+
+🧩 Solved scenario-based problems:
+- **Student Score Analyzer** (Arrays, methods, exception handling)
+- **Invoice Generator for Freelancers** (String parsing, methods, exception handling)
+- **Cafeteria Menu App** (Arrays, methods)
+
+📝 Submitted Encapsulation, Polymorphism, Interface and Abstract Class assignment
+
+🧠 Strengthened understanding of OOP principles and exception handling
+
+📂 **Code location:**  
+👉 [encap-polymo-interface-abstract](oops-practice/gcr-codebase/encap-polymo-interface-abstract/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 2 – 6 January 2026
+**Focus:** ArrayList, Exception Handling & Scenario Problems
+
+📋 Practiced ArrayList operations and custom exception handling
+
+🧩 Solved scenario-based problems:
+- **Phone Contact Organizer** (ArrayList, exception handling)
+- **Online Quiz Platform – Result Processor** (String arrays, List)
+- **Student Report Generator** (Arrays, List, grade calculation)
+- **Library Management System** (Book search, checkout system)
+
+📝 Submitted Scenario-based and LeetCode assignment
+
+🧠 Strengthened understanding of collections and exception handling
+
+📂 **Code location:**  
+👉 [scenario-based](oops-practice/scenario-based/) & [leet-code-codebase](oops-practice/leet-code-codebase/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 3 – 7 January 2026
+**Focus:** Story-Based Problems & CRUD Operations
+
+🏗️ Worked on comprehensive story-based systems:
+- **Cab Booking / Ride Management System** (CRUD operations)
+  - Ride booking, driver assignment, fare calculation, ride history
+  - OOP, interfaces, polymorphism, exception handling
+- **Online Banking System** (CRUD with multithreading)
+  - Account creation, balance check, fund transfer, transaction history
+  - Inheritance, abstraction, polymorphism, synchronized transactions
+
+📚 Learned approach towards scenario-based problem solving
+
+🧠 Applied advanced OOP concepts in real-world scenarios
+
+📂 **Code location:**  
+👉 [scenario-based](oops-practice/scenario-based/)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+#### 🗓️ Day 4 – 8 January 2026
+**Focus:** Data Structures - Introduction & LinkedList
+
+📚 Learned Data Structure fundamentals:
+- Introduction to Data Structures
+- Key features of Data Structures in Java
+- Types of Data Structures in Java
+
+🔗 Implemented LinkedList variants:
+- Single Linked List
+- Double Linked List
+- Circular Linked List
+
+📝 Submitted Data Structure - LinkedList assignment
+
+🧠 Gained understanding of linear data structures and list operations
+
+📂 **Code location:**  
+👉 [collections](collections/) (to be updated)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🧭 How to Navigate
 🔀 Use the branch selector on GitHub to switch to `oops-practice`  
 📁 Each topic folder contains Java programs focused on concept clarity  
@@ -364,4 +450,4 @@ git push
 
 ⭐ **This repository will be continuously updated throughout the BridgeLabz training journey.**
 
-**Last Updated:** January 3, 2026
+**Last Updated:** January 8, 2026
