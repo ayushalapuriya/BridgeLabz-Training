@@ -7,21 +7,21 @@ My focus is on mastering Core Java concepts, enhancing problem-solving abilities
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🏗️ Repository Structure
-📦 BridgeLabz-Training
- ┣ 📂 core-java-practice
- ┣ 📂 oops-practice
- ┣ 📂 dsa-practice
- ┃ ┣ 📂 gcr-codebase
- ┃ ┃ ┣ 📂 algo-runtime-analysis
- ┃ ┃ ┣ 📂 linkedlist
- ┃ ┃ ┣ 📂 searching
- ┃ ┃ ┣ 📂 sorting-algorithms
- ┃ ┃ ┣ 📂 stack-queue-hashmap-hashfunctions
- ┃ ┣ 📂 leet-code-codebase
- ┃ ┣ 📂 scenario-based
- ┃ 📂 collections     (to be added)
- ┃ 📂 exceptions      (to be added)
- ┗ 📄 README.md
+📦 BridgeLabz-Training 
+ ┣ 📂 core-java-practice 
+ ┣ 📂 oops-practice 
+ ┣ 📂 dsa-practice 
+ ┃ ┣ 📂 gcr-codebase 
+ ┃ ┃ ┣ 📂 algo-runtime-analysis 
+ ┃ ┃ ┣ 📂 linkedlist 
+ ┃ ┃ ┣ 📂 searching 
+ ┃ ┃ ┣ 📂 sorting-algorithms 
+ ┃ ┃ ┣ 📂 stack-queue-hashmap-hashfunctions 
+ ┃ ┣ 📂 leet-code-codebase 
+ ┃ ┣ 📂 scenario-based 
+ ┃ 📂 collections     (to be added) 
+ ┃ 📂 exceptions      (to be added) 
+ ┗ 📄 README.md 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🌿 Active Branch
