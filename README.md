@@ -11,13 +11,13 @@ My focus is on mastering Core Java concepts, enhancing problem-solving abilities
  ┣ 📂 core-java-practice      
  ┣ 📂 oops-practice          
  ┣ 📂 dsa-practice           
- ┣ 📂 collections-practice
- ┣ 📂 io-programming-practice
- ┣ 📂 java8-features-practice
- ┣ 📂 dbms-practice
- ┣ 📂 design-principles-practice
- ┣ 📂 multi-threading-practice
- ┗ 📄 README.md              
+ ┣ 📂 collections-practice           
+ ┣ 📂 io-programming-practice        
+ ┣ 📂 java8-features-practice           
+ ┣ 📂 dbms-practice          
+ ┣ 📂 design-principles-practice        
+ ┣ 📂 multi-threading-practice          
+ ┗ 📄 README.md               
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🌿 Active Branch
@@ -26,7 +26,7 @@ Current learning and implementation branch
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 DAILY PROGRESS LOG
+📅 DAILY PROGRESS LOG       
 🟦 WEEK 1 (Git, GitHub, Java Fundamentals, Control Flow, Arrays)
 🗓️ Day 1 – 16 December 2025  
 Focus: Git, GitHub & Logic Building
@@ -66,7 +66,7 @@ Focus: Arrays in Java
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🟦 WEEK 2 (Strings, Methods, Scenario-Based Problems)
+🟦 WEEK 2 (Strings, Methods, Scenario-Based Problems)        
 🗓️ Day 1 – 22 December 2025  
 Focus: Strings & Logic Building
 
@@ -106,7 +106,7 @@ Focus: Control Flow, Loops & Built-in Methods (Scenario-Based)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🟦 WEEK 3 (OOP: Classes, Objects, Constructors, Keywords, Inheritance)
+🟦 WEEK 3 (OOP: Classes, Objects, Constructors, Keywords, Inheritance)         
 🗓️ Day 1 – 29 December 2025  
 Focus: Java String Handling and Scenario-Based Problems
 
@@ -156,7 +156,7 @@ Focus: Inheritance & Scenario-Based Problems
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🟦 WEEK 4 (Encapsulation, Polymorphism, Interfaces, ArrayList, CRUD, LinkedList, Stack, Queue, HashMap)
+🟦 WEEK 4 (Encapsulation, Polymorphism, Interfaces, ArrayList, CRUD, LinkedList, Stack, Queue, HashMap)    
 🗓️ Day 1 – 5 January 2026  
 Focus: Encapsulation, Polymorphism, Interfaces, Abstract Classes & Exception Handling
 
@@ -200,7 +200,7 @@ Focus: CRUD Systems & Data Structures (Stack, Queue, HashMap)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🟦 WEEK 5 (Scenario-Based OOP, Sorting, Searching, Big-O, DSA Applications)
+🟦 WEEK 5 (Scenario-Based OOP, Sorting, Searching, Big-O, DSA Applications)  
 🗓️ Day 1 – 12 January 2026  
 Focus: Scenario Based OOPs & Data Structure Applications
 
@@ -273,7 +273,7 @@ Focus: DSA Applications & Scenario Problems
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🟦 WEEK 6 (Generics, Polymorphism, Collections, DSA Scenarios)
+🟦 WEEK 6 (Generics, Polymorphism, Collections, DSA Scenarios)   
 🗓️ Day 1 – 19 January 2026  
 Focus: Java Generics & Polymorphism with DSA
 
@@ -328,7 +328,7 @@ Focus: Java I/O Streams – File Handling & Data Flow
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🟦 WEEK 7 (Exceptions, Regex, JUnit, Annotations, CSV, JSON)
+🟦 WEEK 7 (Exceptions, Regex, JUnit, Annotations, CSV, JSON)  
 🗓️ Day 1 – 27 January 2026  
 Focus: Exception Handling – Concepts & Practice
 
@@ -372,7 +372,7 @@ Focus: JSON Data Handling – Advanced Parsing
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🟦 WEEK 8 (Lambda, Stream API, Collectors, Design Patterns, Multithreading)
+🟦 WEEK 8 (Lambda, Stream API, Collectors, Design Patterns, Multithreading)  
 🗓️ Day 1 – 2 February 2026  
 Focus: Lambda Expressions – Functional Programming
 
@@ -423,7 +423,7 @@ Focus: SonarQube & JDBC Basics
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🟦 WEEK 9 (SonarQube, JDBC, DBMS, Advanced Scenario Problems & Mock Test Preparation)
+🟦 WEEK 9 (SonarQube, JDBC, DBMS, Advanced Scenario Problems & Mock Test Preparation)   
 🗓️ Day 1 – 9 February 2026  
 Focus: JDBC & DBMS – Database Operations
 
@@ -474,7 +474,7 @@ Focus: Advanced Scenario Problems – Relief & Monitoring Systems
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🟦 WEEK 10 (Servlet, Spring Intro & Advanced Java Concepts)
+🟦 WEEK 10 (Servlet, Spring Intro & Advanced Java Concepts)   
 🗓️ Day 1 – 16 February 2026  
 Focus: Employee Wage Computation, Address Book & Scenario Problems
 
@@ -505,25 +505,25 @@ Focus: Quantity Measurement & Advanced Data Structure Problems
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🧭 How to Navigate
-🔀 Use the branch selector on GitHub to switch between branches
-📁 Each topic folder contains Java programs focused on concept clarity
-🔄 Repository is updated day-wise as training progresses
+🧭 How to Navigate  
+🔀 Use the branch selector on GitHub to switch between branches  
+📁 Each topic folder contains Java programs focused on concept clarity  
+🔄 Repository is updated day-wise as training progresses  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🚀 Upcoming Topics
-�‍💻 Servlet & Spring Framework
-🖾️ Hibernate & JPA
-🧠 Advanced Design Patterns
+🚀 Upcoming Topics  
+�‍💻 Servlet & Spring Framework  
+🖾️ Hibernate & JPA  
+🧠 Advanced Design Patterns  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🛠️ Tools & Technologies
-Language: Java (JDK 8+)
-IDE: VS Code / Eclipse
-Version Control: Git & GitHub
-Practice: LeetCode, HackerRank
+🛠️ Tools & Technologies  
+Language: Java (JDK 8+)  
+IDE: VS Code / Eclipse  
+Version Control: Git & GitHub  
+Practice: LeetCode, HackerRank  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⭐ This repository will be continuously updated throughout the BridgeLabz training journey.
