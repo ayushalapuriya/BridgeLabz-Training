@@ -27,7 +27,7 @@ Current learning and implementation branch
 ━━━━━━━━━━━━━━━━━━━━━━━
 
 📅 DAILY PROGRESS LOG       
-🟦 WEEK 1 (Git, GitHub, Java Fundamentals, Control Flow, Arrays)
+🟦 WEEK 1 (Git, GitHub, Java Fundamentals, Control Flow, Arrays)   
 🗓️ Day 1 – 16 December 2025  
 Focus: Git, GitHub & Logic Building
 
