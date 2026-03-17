@@ -1,4 +1,4 @@
-package M1Question.SET4;
+package m1_practice_problems.set4;
 
 import java.util.*;
 import java.util.regex.*;

@@ -1,4 +1,4 @@
-package M1Question.SET3;
+package m1_practice_problems.set3;
 
 import java.util.*;
 
