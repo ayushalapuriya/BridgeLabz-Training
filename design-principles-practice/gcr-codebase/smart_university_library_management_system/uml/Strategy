@@ -1,0 +1,17 @@
+┌──────────────────────────────┐
+│     ReservationStrategy      │ <<interface>>
+├──────────────────────────────┤
+│ + reserveBook(String)        │
+└───────────▲──────────────────┘
+            │
+ ┌──────────┼────────────┬──────────────┐
+ │          │            │              │
+StudentReservation  FacultyReservation LibrarianReservation
+
+┌──────────────────────────────┐
+│             User             │
+├──────────────────────────────┤
+│ - strategy : ReservationStrategy
+│ + setReservationStrategy()   │
+│ + reserve()                  │
+└──────────────────────────────┘

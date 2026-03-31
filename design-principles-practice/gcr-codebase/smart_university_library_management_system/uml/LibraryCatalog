@@ -1,0 +1,12 @@
+┌──────────────────────────────┐
+│        LibraryCatalog        │
+├──────────────────────────────┤
+│ - instance : LibraryCatalog  │  <<static>>
+│ - books : List<Book>         │
+├──────────────────────────────┤
+│ - LibraryCatalog()           │  <<private>>
+│ + getInstance() : LibraryCatalog
+│ + addBook(Book)              │
+│ + removeBook(String)         │
+│ + notifyUsers()              │
+└──────────────────────────────┘
