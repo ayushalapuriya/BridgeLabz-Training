@@ -3,8 +3,11 @@
 .project
 .settings/
 target
+target/
 bin/
 
 # IntelliJ
 .idea/
+*.iml
+*.iml
 *.iml
