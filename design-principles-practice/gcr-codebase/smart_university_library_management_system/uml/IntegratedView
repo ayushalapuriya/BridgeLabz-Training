@@ -1,0 +1,13 @@
+Presentation
+   │
+   ▼
+UserFactory ───▶ User ───▶ ReservationStrategy
+     │             │              ▲
+     ▼             ▼              │
+LibraryCatalog ─── Observer ◀──────┘
+     │
+     ▼
+    Book ◀── BookBuilder
+     │
+     ▼
+   Logger (Singleton)
