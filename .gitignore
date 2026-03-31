@@ -2,9 +2,13 @@
 .classpath
 .project
 .settings/
+target
+target/
 bin/
 target/
 
 # IntelliJ
 .idea/
+*.iml
+*.iml
 *.iml
