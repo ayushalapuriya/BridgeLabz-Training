@@ -5,6 +5,7 @@
 target
 target/
 bin/
+target/
 
 # IntelliJ
 .idea/
